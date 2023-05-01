@@ -1,6 +1,7 @@
 ﻿namespace CharacterInspect.Services
 {
-    public class CharacterService
+    public class WoWCharacterService
     {
+
     }
 }

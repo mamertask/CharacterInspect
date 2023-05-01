@@ -1,6 +1,6 @@
 ﻿namespace CharacterInspect.Services.Contracts
 {
-    public interface IAuthService
+    public interface IApiAuthService
     {
         Task<string> GetAccessTokenAsync();
     }
